@@ -1,16 +1,27 @@
-## Hi there 👋
+# Frontier Sky Collective
 
-<!--
-**FrontierSkyCollective/frontierskycollective** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+Frontier Sky Collective is an independent, open-science initiative focused on collecting and analyzing multi-sensor observational data across atmospheric, aerial, and radio domains.
 
-Here are some ideas to get you started:
+## Mission
+To document and analyze anomalous and conventional sky phenomena using transparent, reproducible, and data-driven methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Scope
+- Optical sky observation
+- Radio frequency monitoring (SDR / radio astronomy)
+- Environmental data logging
+- Event correlation with public datasets (ADS-B, satellite tracking, weather)
+
+## Status
+Project initialization phase. First observation station under development.
+
+## Data Policy
+All data collected will be:
+- Timestamped (UTC)
+- Preserved in raw format
+- Accompanied by metadata and integrity hashes
+- Released publicly when feasible
+
+## Founder
+Joe Arnold  
+Michigan, USA
